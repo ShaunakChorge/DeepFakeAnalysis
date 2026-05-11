@@ -1,0 +1,4 @@
+To use the ensemble model, average predictions from all three models:
+1. ultrafast_base_model.keras
+2. ultrafast_edge_model.keras
+3. ultrafast_hist_model.keras
